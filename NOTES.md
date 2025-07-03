@@ -25,4 +25,5 @@ MonthlyIncome still with a very assymetry and with this we could see a weak corr
 ### feature engineering
 The basic about FE it's algorithms whether machine learning or another one, don't understand words instead they understand numbers and then we need to convert in "understandble" way for it.
 
-obs: we make sure in achieve the optimal number of features, because many features can cause things overfiting, noise and curse of dimensionality.
+obs: we make sure in achieve the optimal number of features, because many features can cause things like overfiting, noise and curse of dimensionality.
+
