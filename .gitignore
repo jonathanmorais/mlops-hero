@@ -1,0 +1,19 @@
+# terraform git ignore
+.terraform
+.terraform.lock.hcl
+# Local .terraform directories
+**/.terraform/*
+**/terraform/.terraform
+# Local .terraform directories
+**/.terraform.lock.hcl
+# Local .terraform directories
+**/.terraform.tfstate
+# Local .terraform directories
+**/.terraform.tfstate.backup
+# Local .terraform directories
+**/.terraform.tfvars
+# Local .terraform directories
+**/.terraform.tfvars.json
+# Local .terraform directories
+**/.terraform.tfvars.local
+# Local .terraform directories
